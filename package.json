@@ -1,0 +1,24 @@
+{
+  "name": "nodebots-colorado-website",
+  "version": "0.0.1",
+  "description": "website for nodebots colorado",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekinney/nodebots-colorado-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.12.2",
+    "express-ejs-layouts": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/stevekinney/nodebots-colorado-website/issues"
+  },
+  "homepage": "https://github.com/stevekinney/nodebots-colorado-website#readme"
+}
